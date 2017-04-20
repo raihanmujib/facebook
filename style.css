@@ -1,0 +1,86 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.top-bar{
+	background: #3f5d9a;
+	overflow: hidden;
+}
+.container{
+	width: 1170px;
+	margin: 0 auto;
+}
+.logo{
+	width: 20%;
+	float: left;
+	padding-top: 14px;
+}
+.logo span{
+	font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 31px;
+    padding: 10px 0;
+}
+.login-form{
+	float: left;
+	width: 80%;
+}
+.login-form form{
+	float: right;
+	padding: 10px 0;
+	color: white;
+}
+form .email{
+	float: left;
+
+}
+form .password{
+	float: left;
+	padding-left: 24px;
+}
+input{
+	padding: 4px;
+	border: 1px solid #1d2a5b;
+}
+.button{
+	color: white;
+	border-radius: 5px;
+	margin-left: 15px;
+	background: #3565c7;
+}
+.main-content{
+ background: #e9eaf1;
+ overflow: hidden;
+}
+.container{
+ 
+}
+.left-content{
+	float: left;
+	width: 50%;
+
+}
+.right-content{
+	float: left;
+	width: 50%;
+
+}
+.right-content-top{
+
+}
+.singup-form{
+
+}
+.singup-form form{
+
+}
+.singup-form input{
+	width: 70%;
+	padding: 10px;
+	display: block;
+	border-radius: 5px;
+	margin-bottom: 5px;
+	border: 1px solid #222;
+}
+
+
